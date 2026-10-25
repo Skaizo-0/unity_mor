@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unity\\pojects\\Pr_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity\\pojects\\pr_1\\assets\\scripts\\ecs\\visualdebugui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ecs\\visualdebugui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity\\pojects\\pr_1\\assets\\scripts\\ecs\\healthchecksystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ecs\\healthchecksystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity\\pojects\\pr_1\\assets\\scripts\\ecs\\movetotargetsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ecs\\movetotargetsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity\\pojects\\pr_1\\assets\\scripts\\ecs\\unitauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ecs\\unitauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity\\pojects\\pr_1\\assets\\scripts\\ecs\\components.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ecs\\components.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity\\pojects\\pr_1\\assets\\scripts\\ecs\\targetauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ecs\\targetauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HealthCheckSystem.cs",
+              "DocumentMoniker": "D:\\unity\\pojects\\Pr_1\\Assets\\Scripts\\ECS\\HealthCheckSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ECS\\HealthCheckSystem.cs",
+              "ToolTip": "D:\\unity\\pojects\\Pr_1\\Assets\\Scripts\\ECS\\HealthCheckSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ECS\\HealthCheckSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T15:03:04.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Components.cs",
+              "DocumentMoniker": "D:\\unity\\pojects\\Pr_1\\Assets\\Scripts\\ECS\\Components.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ECS\\Components.cs",
+              "ToolTip": "D:\\unity\\pojects\\Pr_1\\Assets\\Scripts\\ECS\\Components.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ECS\\Components.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T15:03:03.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TargetAuthoring.cs",
+              "DocumentMoniker": "D:\\unity\\pojects\\Pr_1\\Assets\\Scripts\\ECS\\TargetAuthoring.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ECS\\TargetAuthoring.cs",
+              "ToolTip": "D:\\unity\\pojects\\Pr_1\\Assets\\Scripts\\ECS\\TargetAuthoring.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ECS\\TargetAuthoring.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T15:03:04.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoveToTargetSystem.cs",
+              "DocumentMoniker": "D:\\unity\\pojects\\Pr_1\\Assets\\Scripts\\ECS\\MoveToTargetSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ECS\\MoveToTargetSystem.cs",
+              "ToolTip": "D:\\unity\\pojects\\Pr_1\\Assets\\Scripts\\ECS\\MoveToTargetSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ECS\\MoveToTargetSystem.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwFEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T15:03:00.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitAuthoring.cs",
+              "DocumentMoniker": "D:\\unity\\pojects\\Pr_1\\Assets\\Scripts\\ECS\\UnitAuthoring.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ECS\\UnitAuthoring.cs",
+              "ToolTip": "D:\\unity\\pojects\\Pr_1\\Assets\\Scripts\\ECS\\UnitAuthoring.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ECS\\UnitAuthoring.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wCEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T15:03:03.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VisualDebugUI.cs",
+              "DocumentMoniker": "D:\\unity\\pojects\\Pr_1\\Assets\\Scripts\\ECS\\VisualDebugUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ECS\\VisualDebugUI.cs",
+              "ToolTip": "D:\\unity\\pojects\\Pr_1\\Assets\\Scripts\\ECS\\VisualDebugUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ECS\\VisualDebugUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T15:03:02.726Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
